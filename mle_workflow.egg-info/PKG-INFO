@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: mle-workflow
+Version: 0.3
+Summary: MLE Training Tiger Analytics
+Home-page: https://github.com/a-banerji/mle-training
+Author: Arpit Banerji, a Tiger MLE
+Author-email: arpit.banerji@tigeranalytics.com
+License: UNKNOWN
+Platform: UNKNOWN
+
+# ml-workflow
+
+Install Dependencies: pip install requirements.txt
+
+Start the script on terminal: python main.py
+
+start the ui: mlflow ui
+
+
